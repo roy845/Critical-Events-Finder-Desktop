@@ -144,21 +144,25 @@ The <code>find_critical_events</code> function takes a list of days, where each 
 
 <b> Initial Screen </b>
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 <b> Data Import </b>
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
-After Data Import
+<b> After Data Import </b>
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 <b> Export Critical Events (Give the exported file a name)</b>
 
-![alt text](image-5.png)
+![alt text](assets/image-5.png)
+
+<b> Reset </b>
+
+![alt text](assets/image-6.png)
 
 ## Video demo
 
